@@ -1,0 +1,2 @@
+from:
+http://opengameart.org/content/spell-icon-collection-part-2
