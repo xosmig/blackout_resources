@@ -15,7 +15,7 @@
    id="svg4136"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="abilities.svg">
+   sodipodi:docname="ability_cell.svg">
   <defs
      id="defs4138" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1880212"
-     inkscape:cx="159.61557"
-     inkscape:cy="908.97477"
+     inkscape:zoom="1.6801157"
+     inkscape:cx="180.89424"
+     inkscape:cy="738.33661"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -69,31 +69,24 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2">
-    <circle
-       style="display:inline;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#808080;stroke-width:4.95279598;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4684-7"
-       cx="515.83356"
-       cy="131.04774"
-       r="125.52361"
-       inkscape:export-xdpi="510.5152"
-       inkscape:export-ydpi="510.5152"
-       inkscape:export-filename="/home/andrey/work/game/blackout/android/assets/images/ability_cell/empty.png" />
-    <circle
-       style="display:inline;fill:#6060ff;fill-opacity:0.76862745;fill-rule:evenodd;stroke:#000040;stroke-width:4.95279598;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+    <ellipse
+       style="display:inline;fill:#6060ff;fill-opacity:0.76862745;fill-rule:evenodd;stroke:#000040;stroke-width:9.80665493;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4684"
-       cx="1057.1143"
-       cy="802.17035"
-       r="125.52361"
-       inkscape:export-xdpi="510.5152"
-       inkscape:export-ydpi="510.5152" />
-    <circle
-       style="display:inline;fill:#ffffff;fill-opacity:0.50196078;fill-rule:evenodd;stroke:#20c420;stroke-width:4.95279598;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4684-7-5"
-       cx="562.01978"
-       cy="450.56284"
-       r="125.52361"
+       cx="178.46051"
+       cy="285.6821"
        inkscape:export-xdpi="510.5152"
        inkscape:export-ydpi="510.5152"
-       inkscape:export-filename="/home/andrey/work/game/blackout/android/assets/images/ability_cell/ready.png" />
+       rx="123.09666"
+       ry="123.09667" />
+    <ellipse
+       style="display:inline;fill:#ffffff;fill-opacity:0.50196078;fill-rule:evenodd;stroke:#20c420;stroke-width:9.80665493;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4684-7-5"
+       cx="587.27344"
+       cy="557.46167"
+       inkscape:export-xdpi="510.5152"
+       inkscape:export-ydpi="510.5152"
+       inkscape:export-filename="/home/andrey/work/game/blackout/android/assets/images/ability_cell/charged.png"
+       rx="123.09666"
+       ry="123.09667" />
   </g>
 </svg>
